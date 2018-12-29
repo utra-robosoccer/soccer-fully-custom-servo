@@ -131,6 +131,9 @@ int main(void)
   MX_NVIC_Init();
   /* USER CODE BEGIN 2 */
 
+  MC_ProgramSpeedRampMotor1(10, 1000);
+  MC_StartMotor1();
+
   /* USER CODE END 2 */
 
   /* Infinite loop */

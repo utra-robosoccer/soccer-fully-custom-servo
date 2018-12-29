@@ -56,7 +56,7 @@
 /* Includes ------------------------------------------------------------------*/
 #include "stdint.h"
 #include "stdbool.h"
-#include "mc_stm_types.h "
+#include "mc_stm_types.h"
 
 /** @addtogroup MCSDK
   * @{
